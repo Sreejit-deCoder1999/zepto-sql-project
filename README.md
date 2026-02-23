@@ -1,6 +1,3 @@
-# zepto-sql-project
-PostgreSQL project analyzing Zepto inventory data using SQL, data cleaning, business insights, and window functions to generate actionable analytics.
-
 # Zepto Inventory Data Analysis using PostgreSQL
 
 This project focuses on analyzing Zepto’s inventory dataset using PostgreSQL to generate meaningful business insights and support data-driven decision-making.
