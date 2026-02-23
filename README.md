@@ -148,6 +148,7 @@ This project shows how SQL can be used to:
 **Sreejit Kumar Paul**
 
 MBA Business Analytics
+
 Software Engineer | Aspiring Data Analyst
 
 📍 Kolkata, India
